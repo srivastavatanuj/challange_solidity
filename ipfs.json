@@ -6,8 +6,13 @@
   "external_url": "https://curiousaddys.com/addy/1000",
   "attributes": [
     {
+<<<<<<< HEAD
       "trait_type": "dev",
       "value": "dev"
+=======
+      "trait_type": "master",
+      "value": "master"
+>>>>>>> master
     },
     {
       "trait_type": "Background",

@@ -22,6 +22,7 @@ contract NFTMarketplace is ERC721URIStorage {
     struct ListedToken {
         uint256 tokenId;
 	address payable dev;
+	address payable master;
         address payable owner;
         address payable seller;
         uint256 price;
